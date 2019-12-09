@@ -84,6 +84,11 @@ h2 {
       position: relative;
       line-height: 200%;
     }
+    a:link {
+      color:#6f717d;
+      font-weight:bold;
+      text-decoration: none;  
+    }
 
       .page-nav ul li:hover {
         left: 4px;
